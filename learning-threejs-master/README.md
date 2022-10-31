@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+# Computer_Graphics
+2022-second semester
+=======
+learning-threejs
+================
+
+## Second edition learning Three.js
+
+The examples in this branch are based on r63 and correspond to the second edition of "Learning Three.js"
+
+## Third edition Learning Three.js
+
+The examples for the third edition of this book can be found in the following repo
+
+https://github.com/josdirksen/learning-threejs-third
+
+>>>>>>> 7972fd3 (josdirksen의 learning-threejs github fork)
