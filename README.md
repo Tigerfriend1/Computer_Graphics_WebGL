@@ -34,7 +34,13 @@
 
     2️⃣ src경로가 제대로 지정되어 있지 않을 수 있다.
     </br>
+<<<<<<< HEAD
     -> <span style="color : red"> 나는 바보 본인이 파일 경로를 옮기면서 src경로를 수정하지 않아 생긴 문제였다. </span> : 해결
+=======
+    
+    -> 본인이 파일 경로를 옮기면서 src경로를 수정하지 않아 생긴 문제였다. : 해결
+    
+>>>>>>> dc1b9923bdd89af2a814c1fe8a39a94b466ebfc4
     ```HTML
     <script type="text/javascript" src="../learning-threejs-master/libs/three.js"></script> 
     ```
