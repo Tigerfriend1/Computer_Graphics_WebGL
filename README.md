@@ -1,6 +1,6 @@
 # Computer_Graphics
 2022-second semester
-
+with [WebGL, Three.js, GLSL]
 ---
 </br>
 
@@ -34,13 +34,9 @@
 
     2️⃣ src경로가 제대로 지정되어 있지 않을 수 있다.
     </br>
-
-    -> <span style="color : red"> 나는 바보 본인이 파일 경로를 옮기면서 src경로를 수정하지 않아 생긴 문제였다. </span> : 해결
-
     
     -> 본인이 파일 경로를 옮기면서 src경로를 수정하지 않아 생긴 문제였다. : 해결
-
-
+    
     ```HTML
     <script type="text/javascript" src="../learning-threejs-master/libs/three.js"></script> 
     ```
