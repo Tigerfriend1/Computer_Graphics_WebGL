@@ -8,6 +8,8 @@ with [WebGL, Three.js, GLSL]
 - ### 목적
     > 1. x, y, z축을 표현하고 카메라를 생성하여 구도를 원하는 대로 조절한다.
     > 2. 도형을 생성하고 x축을 기준으로 정렬하여 angle을 각자 다르게 표현한다.
+- ### 결과물
+<img width="418" alt="스크린샷 2023-03-22 오후 2 23 19" src="https://user-images.githubusercontent.com/84169614/226809866-783753ad-fda8-4534-ac8b-fdfbf9ec6757.png">
 
 
 </br>
